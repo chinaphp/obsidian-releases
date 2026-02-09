@@ -19080,5 +19080,12 @@
     "author": "Shawn Duggan",
     "description": "Your AI writing partner that edits exactly where you want - select text and transform, or chat at cursor position.",
     "repo": "shawnduggan/nova"
+  },
+  {
+    "id": "infographic-viz",
+    "name": "Infographic Viz",
+    "author": "Coffee",
+    "description": "Beautiful infographics using official @antv/infographic. Right-click to export PNG/SVG, copy to clipboard, and choose from 200+ themes.",
+    "repo": "chinaphp/obsidian-infographic-viz"
   }
 ]
